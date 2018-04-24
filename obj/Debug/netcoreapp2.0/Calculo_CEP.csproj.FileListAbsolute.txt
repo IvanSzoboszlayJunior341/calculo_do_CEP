@@ -1,0 +1,10 @@
+C:\Users\ivan.sjunior\logica\Calculo_CEP\bin\Debug\netcoreapp2.0\Calculo_CEP.deps.json
+C:\Users\ivan.sjunior\logica\Calculo_CEP\bin\Debug\netcoreapp2.0\Calculo_CEP.runtimeconfig.json
+C:\Users\ivan.sjunior\logica\Calculo_CEP\bin\Debug\netcoreapp2.0\Calculo_CEP.runtimeconfig.dev.json
+C:\Users\ivan.sjunior\logica\Calculo_CEP\bin\Debug\netcoreapp2.0\Calculo_CEP.dll
+C:\Users\ivan.sjunior\logica\Calculo_CEP\bin\Debug\netcoreapp2.0\Calculo_CEP.pdb
+C:\Users\ivan.sjunior\logica\Calculo_CEP\obj\Debug\netcoreapp2.0\Calculo_CEP.csproj.CoreCompileInputs.cache
+C:\Users\ivan.sjunior\logica\Calculo_CEP\obj\Debug\netcoreapp2.0\Calculo_CEP.AssemblyInfoInputs.cache
+C:\Users\ivan.sjunior\logica\Calculo_CEP\obj\Debug\netcoreapp2.0\Calculo_CEP.AssemblyInfo.cs
+C:\Users\ivan.sjunior\logica\Calculo_CEP\obj\Debug\netcoreapp2.0\Calculo_CEP.dll
+C:\Users\ivan.sjunior\logica\Calculo_CEP\obj\Debug\netcoreapp2.0\Calculo_CEP.pdb
